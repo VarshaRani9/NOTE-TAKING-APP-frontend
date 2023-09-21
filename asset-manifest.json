@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://varsharani9.github.io/NOTE-TAKING-APP-frontend/static/css/main.1ab74f5e.css",
+    "main.js": "https://varsharani9.github.io/NOTE-TAKING-APP-frontend/static/js/main.27bc66e4.js",
+    "static/js/787.cda612ba.chunk.js": "https://varsharani9.github.io/NOTE-TAKING-APP-frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "https://varsharani9.github.io/NOTE-TAKING-APP-frontend/index.html",
+    "main.1ab74f5e.css.map": "https://varsharani9.github.io/NOTE-TAKING-APP-frontend/static/css/main.1ab74f5e.css.map",
+    "main.27bc66e4.js.map": "https://varsharani9.github.io/NOTE-TAKING-APP-frontend/static/js/main.27bc66e4.js.map",
+    "787.cda612ba.chunk.js.map": "https://varsharani9.github.io/NOTE-TAKING-APP-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab74f5e.css",
+    "static/js/main.27bc66e4.js"
+  ]
+}
