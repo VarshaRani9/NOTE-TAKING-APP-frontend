@@ -1,0 +1,19 @@
+.red{
+    background: rgba(240, 42, 42, 0.845);
+}
+.hand{
+    cursor: pointer;
+}
+.blue{
+    background: rgb(40, 99, 224);
+    font-size: medium;
+    color: white;
+    margin: 10px 0px;
+    border: none;
+    padding: 5px 10px;
+}
+.bold{
+    font:bold;
+    font-size: 20px;
+    padding-left: 10px;
+}
